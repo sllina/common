@@ -1,0 +1,9 @@
+server:
+  context-path: /orgemp
+  port: 8090
+spring:
+  data:
+    mongodb:
+      host: S-MONGODB-SERVER
+      database: yimym
+      port: 27017

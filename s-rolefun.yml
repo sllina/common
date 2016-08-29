@@ -1,0 +1,9 @@
+server:
+  context-path: /rolefun
+  port: 8094
+spring:
+  data:
+    mongodb:
+      host: S-MONGODB-SERVER
+      database: yimym
+      port: 27017

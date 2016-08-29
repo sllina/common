@@ -1,0 +1,9 @@
+server:
+  context-path: /enterprise
+  port: 8086
+spring:
+  data:
+    mongodb:
+      host: P-MONGODB-SERVER
+      database: yimym
+      port: 27017
